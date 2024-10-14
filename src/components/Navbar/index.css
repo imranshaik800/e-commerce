@@ -1,0 +1,28 @@
+
+.nav-items {
+    background-color: black;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding: 10px;
+}
+
+.input-element {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.un-orderlist {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 10px;
+    font-weight: bold;
+    background-color: lightblue;
+    
+  
+}
+
